@@ -1,0 +1,14 @@
+.card{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    flex-wrap: wrap;
+}
+.card_Item{
+    display: flex;
+}
+.total{
+    width: 30%;
+}
